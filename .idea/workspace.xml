@@ -2,630 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53402e29-ee39-4f74-92cf-6497848a99a3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/controllers/admin/Controller.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/models/Model.class.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/config/config-config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/config/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/admin/admin-IndexController.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/behaviors/behaviors-disablehandles.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/behaviors/behaviors-showtableborders.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/behaviors/disablehandles.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/behaviors/showtableborders.htc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/css-fck_editorarea.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/css-fck_internal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/css-fck_showtableborders_gecko.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/fck_editorarea.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/fck_internal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/fck_showtableborders_gecko.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_address.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_blockquote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_div.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_h1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_h2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_h3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_h4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_h5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_h6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_p.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/block_pre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/fck_anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/fck_flashlogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/fck_hiddenfield.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/fck_pagebreak.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/fck_plugin.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_address.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_blockquote.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_div.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_h1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_h2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_h3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_h4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_h5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_h6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_p.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-block_pre.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-fck_anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-fck_flashlogo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-fck_hiddenfield.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-fck_pagebreak.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/css/images/images-fck_plugin.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/common-fck_dialog_common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/common-fck_dialog_common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/fck_dialog_common.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/fck_dialog_common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/images/images-locked.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/images/images-reset.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/images/images-unlocked.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/images/locked.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/images/reset.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/common/images/unlocked.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_UpFileBtn.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_anchor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_checkbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_colorselector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_docprops.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_flash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_hiddenfield.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_link.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_listprop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_paste.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_radiobutton.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_replace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_smiley.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_source.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_specialchar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_spellerpages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_tablecell.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_textarea.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/dialog-fck_textfield.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_UpFileBtn.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_UpFileBtn/fck_UpFileBtn-fck_UpFileBtn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_UpFileBtn/fck_UpFileBtn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_about/fck_about-logo_fckeditor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_about/fck_about-logo_fredck.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_about/logo_fckeditor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_about/logo_fredck.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_about/sponsors/spellchecker_net.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_about/sponsors/sponsors-spellchecker_net.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_anchor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_button.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_checkbox.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_colorselector.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_docprops.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_docprops/fck_docprops-fck_document_preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_docprops/fck_document_preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_flash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_flash/fck_flash-fck_flash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_flash/fck_flash-fck_flash_preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_flash/fck_flash.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_flash/fck_flash_preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_form.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_hiddenfield.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_image/fck_image-fck_image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_image/fck_image-fck_image_preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_image/fck_image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_image/fck_image_preview.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_link.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_link/fck_link-fck_link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_link/fck_link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_listprop.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_paste.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_radiobutton.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_replace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_select.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_select/fck_select-fck_select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_select/fck_select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_smiley.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_source.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_specialchar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/blank.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/controlWindow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/controls.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/server-scripts-spellchecker.cfm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/server-scripts-spellchecker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/server-scripts-spellchecker.pl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.cfm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/server-scripts/spellchecker.pl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellChecker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellchecker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerStyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerpages-blank.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerpages-controlWindow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerpages-controls.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerpages-spellChecker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerpages-spellchecker.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerpages-spellerStyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/spellerpages-wordWindow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_spellerpages/spellerpages/wordWindow.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_table.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_tablecell.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_template.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_template/images/images-template1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_template/images/images-template2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_template/images/images-template3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_template/images/template1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_template/images/template2.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_template/images/template3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_textarea.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dialog/fck_textfield.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dtd/dtd-fck_dtd_test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dtd/dtd-fck_xhtml10strict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dtd/dtd-fck_xhtml10transitional.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dtd/fck_dtd_test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dtd/fck_xhtml10strict.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/dtd/fck_xhtml10transitional.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/editor-fckdebug.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/editor-fckdialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/editor-fckeditor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/editor-fckeditor.original.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/fckdebug.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/fckdialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/fckeditor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/fckeditor.original.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/browser.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/browser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-browser.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-browser.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-frm.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-frmactualfolder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-frmcreatefolder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-frmfolders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-frmresourceslist.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-frmresourcetype.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/default-frmupload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/frm.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/frmactualfolder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/frmcreatefolder.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/frmfolders.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/frmresourceslist.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/frmresourcetype.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/frmupload.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/ButtonArrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/Folder.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/Folder32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/FolderOpened.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/FolderOpened32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/FolderUp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-ai.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-avi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-bmp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-cs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-default.icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-dll.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-doc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-exe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-fla.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-gif.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-htm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-html.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-jpg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-js.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-mdb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-mp3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-pdf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-png.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-ppt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-rdp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-swf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-swt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-txt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-vsd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-xls.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-xml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/32-zip.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/ai.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/avi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/bmp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/cs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/default.icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/dll.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/doc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/exe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/fla.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/gif.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/htm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/html.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/jpg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/js.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/mdb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/mp3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/pdf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/png.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/ppt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/rdp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/swf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/swt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/txt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/vsd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/xls.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/xml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/32/zip.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/ai.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/avi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/bmp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/cs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/default.icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/dll.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/doc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/exe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/fla.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/gif.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/htm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/html.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-ai.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-avi.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-bmp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-cs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-default.icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-dll.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-doc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-exe.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-fla.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-gif.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-htm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-html.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-jpg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-js.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-mdb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-mp3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-pdf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-png.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-ppt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-rdp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-swf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-swt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-txt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-vsd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-xls.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-xml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/icons-zip.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/jpg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/js.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/mdb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/mp3.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/pdf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/png.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/ppt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/rdp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/swf.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/swt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/txt.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/vsd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/xls.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/xml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/icons/zip.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/images-ButtonArrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/images-Folder.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/images-Folder32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/images-FolderOpened.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/images-FolderOpened32.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/images-FolderUp.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/images-spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/images/spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/js/fckxml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/js/js-common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/browser/default/js/js-fckxml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/_more.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/basexml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/commands.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/connector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/io.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-_more.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-basexml.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-commands.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-config.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-connector.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-io.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-phpcompat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-upload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-upload_more.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/php-util.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/phpcompat.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/upload.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/upload_more.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/filemanager/connectors/php/util.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/arrow_ltr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/arrow_rtl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/images-anchor.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/images-arrow_ltr.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/images-arrow_rtl.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/images-spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/angel_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/angry_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/broken_heart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/cake.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/confused_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/cry_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/devil_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/embaressed_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/envelope.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/heart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/kiss.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/lightbulb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-angel_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-angry_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-broken_heart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-cake.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-confused_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-cry_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-devil_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-embaressed_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-envelope.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-heart.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-kiss.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-lightbulb.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-omg_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-regular_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-sad_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-shades_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-teeth_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-thumbs_down.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-thumbs_up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-tounge_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-whatchutalkingabout_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/msn-wink_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/omg_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/regular_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/sad_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/shades_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/teeth_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/thumbs_down.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/thumbs_up.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/tounge_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/whatchutalkingabout_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/smiley/msn/wink_smile.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/images/spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/js/fckadobeair.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/js/fckeditorcode_gecko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/js/fckeditorcode_ie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/js/js-fckadobeair.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/js/js-fckeditorcode_gecko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/js/js-fckeditorcode_ie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/lang/lang-en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/lang/lang-zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/lang/lang-zh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/lang/zh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/default-fck_dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/default-fck_dialog_ie6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/default-fck_editor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/default-fck_strip.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/fck_dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/fck_dialog_ie6.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/fck_editor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/fck_strip.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/dialog.sides.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/dialog.sides.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/dialog.sides.rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-dialog.sides.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-dialog.sides.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-dialog.sides.rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-sprites.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-toolbar.arrowright.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-toolbar.buttonarrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-toolbar.collapse.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-toolbar.end.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-toolbar.expand.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-toolbar.separator.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/images-toolbar.start.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/sprites.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/toolbar.arrowright.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/toolbar.buttonarrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/toolbar.collapse.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/toolbar.end.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/toolbar.expand.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/toolbar.separator.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/editor/skins/default/images/toolbar.start.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckconfig.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fckconfig.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fckeditor.cfc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fckeditor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fckeditor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fckeditor_php4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fckeditor_php5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fckpackager.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fckstyles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-fcktemplates.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor-license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor.cfc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor_php4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckeditor_php5.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckpackager.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fckstyles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/fcktemplates.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/fckeditor/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/ajax_loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/area_link.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/arrow_left.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/arrow_right.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/bg_repx.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/book_open.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/btn_close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/btn_drop.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/btn_maximize.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/btn_minimize.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/button_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/MSColumn3D.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/MSLine.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/ScrollColumn2D.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/bar.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-MSColumn3D.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-MSLine.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-ScrollColumn2D.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-bar.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-column.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-column3d.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-line.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-pie3d.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/charts-pipe.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/column.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/column3d.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/line.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/pie3d.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/charts/pipe.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/color_selecter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/confirm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/ecshop_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/empty.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/filecheck.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_account.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_copy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_docs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_drop.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_edit.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_js.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_output.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_priv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_search.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_send_bonus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_title.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_trash.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/icon_view.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-ajax_loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-area_link.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-arrow_left.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-arrow_right.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-bg_repx.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-book_open.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-btn_close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-btn_drop.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-btn_maximize.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-btn_minimize.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-button_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-color_selecter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-confirm.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-ecshop_logo.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-empty.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-filecheck.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_account.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_add.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_copy.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_docs.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_drop.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_edit.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_js.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_output.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_priv.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_search.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_send_bonus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_title.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_trash.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-icon_view.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-information.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-login_line.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-menu_arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-menu_minus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-menu_plus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-no.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-notice.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-online.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-online.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-picflag.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-picnoflag.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-sort_asc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-sort_desc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-stepnum.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-th_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-top_loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-warning.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-warning_small.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/images-yes.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/information.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/login.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/login_line.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/menu_arrow.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/menu_minus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/menu_plus.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/no.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/notice.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/online.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/online.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/picflag.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/picnoflag.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/sort_asc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/sort_desc.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/stepnum.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/th_bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/top_loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/warning.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/warning_small.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/images/yes.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/colorselector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/colorselector_topic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-colorselector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-colorselector_topic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-common.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-listtable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-md5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-selectbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-selectzone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-todolist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-topbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/js-validator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/listtable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/md5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/selectbox.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/selectzone.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/todolist.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/topbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/js/validator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/styles/general.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/styles/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/styles/styles-general.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/application/views/admin/styles/styles-main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/elephant.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/framework/core/Model.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/framework/core/core-Controller.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/framework/core/core-Framework.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/framework/core/core-Model.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/framework/databases/Mysql.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/framework/databases/databases-Mysql.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/framework/libraries/Captcha.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/framework/libraries/libraries-Captcha.class.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopcz-elephant.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/shopcz-index.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/elephant.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/application/config/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/databases/Mysql.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/framework/libraries/Captcha.class.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/application/controllers/admin/Controller.class.php" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/application/models/Model.class.php" afterPath="$PROJECT_DIR$/framework/core/Model.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/controllers/admin/IndexController.class.php" afterPath="$PROJECT_DIR$/application/controllers/admin/IndexController.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/framework/core/Framework.class.php" afterPath="$PROJECT_DIR$/framework/core/Framework.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="shop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -650,7 +35,7 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.375">
+            <state vertical-scroll-proportion="0.0">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#6#107#0#PHP" expanded="true" />
@@ -662,8 +47,8 @@
       <file leaf-file-name="Framework.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/framework/core/Framework.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.25">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state vertical-scroll-proportion="-15.0">
+              <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
               <folding>
                 <element signature="e#6#97#0#PHP" expanded="true" />
               </folding>
@@ -671,63 +56,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Controller.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/admin/Controller.class.php">
+      <file leaf-file-name="config.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-6.25">
+              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/admin/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin-drag.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/admin/admin-drag.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125">
-              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdminModel.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/AdminModel.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1461045262000" expanded="true" signature="102:116" placeholder="SELECT * FRO..${{$this-&gt;table}..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Model.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/Model.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.125">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding>
-                <marker date="1461045262000" expanded="true" signature="1444:1509" placeholder="INSERT INTO `${{$this-&gt;table}}`..." />
-                <marker date="1461045262000" expanded="true" signature="2177:2221" placeholder="UPDATE `${{$..." />
-                <marker date="1461045262000" expanded="true" signature="2851:2886" placeholder="DELETE FROM ..." />
-                <marker date="1461045262000" expanded="true" signature="3235:3296" placeholder="select * fro..${{$this-&gt;table}}..." />
-                <marker date="1461045262000" expanded="true" signature="3492:3513" placeholder="select count..${{$this-&gt;table}..." />
-                <marker date="1461045262000" expanded="true" signature="3550:3592" placeholder="select count..${{$this-&gt;table}..." />
-                <marker date="1461045262000" expanded="true" signature="3849:3893" placeholder="select * fro..${{$this-&gt;table}..." />
-                <marker date="1461045262000" expanded="true" signature="3924:3982" placeholder="select * fro..${{$this-&gt;table}..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -735,8 +69,18 @@
       <file leaf-file-name="IndexController.class.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/controllers/admin/IndexController.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16393442">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.32786885">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Captcha.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/libraries/Captcha.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-18.5">
+              <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -745,18 +89,57 @@
       <file leaf-file-name="Controller.class.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/framework/core/Controller.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875">
-              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            <state vertical-scroll-proportion="-1.875">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Framework.class.php" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/PHP39期/02中级项目/20150816/shopcz/framework/core/Framework.class.php">
+      <file leaf-file-name="Mysql.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/databases/Mysql.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.625">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Model.class.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/core/Model.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-0.625">
-              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <folding>
+                <marker date="1445193187000" expanded="true" signature="1444:1509" placeholder="INSERT INTO `${{$this-&gt;table}}`..." />
+                <marker date="1445193187000" expanded="true" signature="2177:2221" placeholder="UPDATE `${{$..." />
+                <marker date="1445193187000" expanded="true" signature="2851:2886" placeholder="DELETE FROM ..." />
+                <marker date="1445193187000" expanded="true" signature="3235:3296" placeholder="select * fro..${{$this-&gt;table}}..." />
+                <marker date="1445193187000" expanded="true" signature="3492:3513" placeholder="select count..${{$this-&gt;table}..." />
+                <marker date="1445193187000" expanded="true" signature="3550:3592" placeholder="select count..${{$this-&gt;table}..." />
+                <marker date="1445193187000" expanded="true" signature="3849:3893" placeholder="select * fro..${{$this-&gt;table}..." />
+                <marker date="1445193187000" expanded="true" signature="3924:3982" placeholder="select * fro..${{$this-&gt;table}..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin-top.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/admin-top.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -794,6 +177,8 @@
         <option value="$PROJECT_DIR$/framework/core/FrameworkClass.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/framework/core/Framework.class.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/controllers/admin/IndexController.class.php" />
       </list>
     </option>
   </component>
@@ -807,9 +192,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="207" />
-    <option name="y" value="49" />
-    <option name="width" value="906" />
+    <option name="x" value="332" />
+    <option name="y" value="23" />
+    <option name="width" value="1056" />
     <option name="height" value="670" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -837,8 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -884,6 +267,42 @@
               <option name="myItemId" value="framework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="databases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -914,32 +333,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="shop" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="application" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1014,9 +407,15 @@
               <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1028,17 +427,17 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/application/models" />
-      <recent name="$PROJECT_DIR$/application/views/admin" />
-      <recent name="$PROJECT_DIR$/application/views" />
-      <recent name="$PROJECT_DIR$/application/controllers/admin" />
-      <recent name="$PROJECT_DIR$/framework/core" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/application/views/admin" />
       <recent name="$PROJECT_DIR$/framework/core" />
       <recent name="$PROJECT_DIR$/study" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/framework/libraries" />
+      <recent name="$PROJECT_DIR$/application/config" />
+      <recent name="$PROJECT_DIR$/framework/core" />
+      <recent name="$PROJECT_DIR$/framework/databases" />
     </key>
   </component>
   <component name="RunManager">
@@ -1085,14 +484,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="207" y="49" width="906" height="670" extended-state="1" />
-    <editor active="true" />
+    <frame x="332" y="23" width="1056" height="670" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35651213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30587122" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.012711864" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1103,6 +501,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1144,6 +543,83 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#107#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Framework.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding>
+            <element signature="e#6#97#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/admin/IndexController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Controller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/databases/Mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <marker date="1445193187000" expanded="true" signature="1444:1509" placeholder="INSERT INTO `${{$this-&gt;table}}`..." />
+            <marker date="1445193187000" expanded="true" signature="2177:2221" placeholder="UPDATE `${{$..." />
+            <marker date="1445193187000" expanded="true" signature="2851:2886" placeholder="DELETE FROM ..." />
+            <marker date="1445193187000" expanded="true" signature="3235:3296" placeholder="select * fro..${{$this-&gt;table}}..." />
+            <marker date="1445193187000" expanded="true" signature="3492:3513" placeholder="select count..${{$this-&gt;table}..." />
+            <marker date="1445193187000" expanded="true" signature="3550:3592" placeholder="select count..${{$this-&gt;table}..." />
+            <marker date="1445193187000" expanded="true" signature="3849:3893" placeholder="select * fro..${{$this-&gt;table}..." />
+            <marker date="1445193187000" expanded="true" signature="3924:3982" placeholder="select * fro..${{$this-&gt;table}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/admin-top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/mysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.21189025">
@@ -1155,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49542683">
           <caret line="1580" column="34" selection-start-line="1580" selection-start-column="34" selection-end-line="1580" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1171,58 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.625">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.375">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#107#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/core/Controller.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/core/Framework.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.25">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="e#6#97#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/admin/Controller.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/admin/admin-drag.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125">
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1237,27 +659,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/Model.class.php">
+    <entry file="file://$PROJECT_DIR$/application/views/admin/admin-drag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.125">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
-            <marker date="1461045262000" expanded="true" signature="1444:1509" placeholder="INSERT INTO `${{$this-&gt;table}}`..." />
-            <marker date="1461045262000" expanded="true" signature="2177:2221" placeholder="UPDATE `${{$..." />
-            <marker date="1461045262000" expanded="true" signature="2851:2886" placeholder="DELETE FROM ..." />
-            <marker date="1461045262000" expanded="true" signature="3235:3296" placeholder="select * fro..${{$this-&gt;table}}..." />
-            <marker date="1461045262000" expanded="true" signature="3492:3513" placeholder="select count..${{$this-&gt;table}..." />
-            <marker date="1461045262000" expanded="true" signature="3550:3592" placeholder="select count..${{$this-&gt;table}..." />
-            <marker date="1461045262000" expanded="true" signature="3849:3893" placeholder="select * fro..${{$this-&gt;table}..." />
-            <marker date="1461045262000" expanded="true" signature="3924:3982" placeholder="select * fro..${{$this-&gt;table}..." />
+            <element signature="e#6#107#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/styles/general.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/admin/admin-top.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Model.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding>
+            <marker date="1445193187000" expanded="true" signature="1444:1509" placeholder="INSERT INTO `${{$this-&gt;table}}`..." />
+            <marker date="1445193187000" expanded="true" signature="2177:2221" placeholder="UPDATE `${{$..." />
+            <marker date="1445193187000" expanded="true" signature="2851:2886" placeholder="DELETE FROM ..." />
+            <marker date="1445193187000" expanded="true" signature="3235:3296" placeholder="select * fro..${{$this-&gt;table}}..." />
+            <marker date="1445193187000" expanded="true" signature="3492:3513" placeholder="select count..${{$this-&gt;table}..." />
+            <marker date="1445193187000" expanded="true" signature="3550:3592" placeholder="select count..${{$this-&gt;table}..." />
+            <marker date="1445193187000" expanded="true" signature="3849:3893" placeholder="select * fro..${{$this-&gt;table}..." />
+            <marker date="1445193187000" expanded="true" signature="3924:3982" placeholder="select * fro..${{$this-&gt;table}..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Framework.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="51" column="40" selection-start-line="51" selection-start-column="40" selection-end-line="51" selection-end-column="40" />
+          <folding>
+            <element signature="e#6#97#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/databases/Mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25">
+          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/core/Controller.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/libraries/Captcha.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.5">
+          <caret line="82" column="39" selection-start-line="82" selection-start-column="39" selection-end-line="82" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/admin/IndexController.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16393442">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.32786885">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding />
         </state>
       </provider>
